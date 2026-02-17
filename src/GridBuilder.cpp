@@ -21,6 +21,7 @@
 #include <queue>
 #include <time.h>
 #include <stdlib.h>
+#include <typeinfo>
 
 using namespace std;
 
